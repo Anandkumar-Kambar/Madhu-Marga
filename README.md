@@ -124,8 +124,6 @@ Contributions are welcome! Please ensure code follows Kotlin best practices and 
 ## License
 This project is licensed under the Apache License 2.0.
 
-## Contact & Support
-For queries or suggestions, reach out to the development team.
 
 ---
 
