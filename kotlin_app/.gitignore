@@ -1,0 +1,54 @@
+# Gradle files
+.gradle/
+build/
+*.gradle.lock
+
+# Android
+*.apk
+*.ap_
+*.dex
+*.class
+bin/
+gen/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+*.iws
+*.ipr
+*.swp
+*.swo
+*~
+.classpath
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+*.log
+
+# Build
+local.properties
+*.jks
+*.keystore
+
+# Firebase
+google-services.json
+
+# Room
+*.db
+*.db-journal
+
+# Misc
+*.bak
+*.tmp
+.env
+.env.local
+
+# Root level directories
+../CODEBASE_ARCHITECTURE.md
+../.idea/
